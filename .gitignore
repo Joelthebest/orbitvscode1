@@ -1,0 +1,28 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# iOS/Xcode
+DerivedData/
+ios/Flutter/.last_build_id
+ios/Pods/
+*.xcworkspace
+*.lock
+
+# Android
+**/android/**/build/
+**/android/*.log
+
+# VS Code
+.vscode/
+
+# macOS, Windows, Linux build directories
+macos/Flutter/ephemeral/
+linux/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+
+# Ignore keystore
+*.keystore
+*.jks
