@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class YelpService {
   // TODO: Replace with your actual Yelp API key
-  static const String _apiKey = '2kYhmtPwVesFG3urHaILpLkvNVgvcrqn27m0FvMfOZmjRBbnccIphADVmP9sut6T9BCjyGQhI3ZotUYqil0ER51TKxw5HH5m6wHn5QgglZ8vb_a12oKnKAG7MHEvaXYx';
+  static const String _apiKey = 'YELP_API_KEY_PLACEHOLDER';
   static const String _baseUrl = 'https://api.yelp.com/v3';
 
   // Search for restaurants
